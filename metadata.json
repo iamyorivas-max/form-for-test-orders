@@ -1,0 +1,5 @@
+{
+  "name": "PDF Uploader & Emailer",
+  "description": "A React application to collect user details and a PDF file, sending them via email using Google Apps Script.",
+  "requestFramePermissions": []
+}
